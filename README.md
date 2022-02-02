@@ -1,16 +1,14 @@
-### Hi there 👋
+Website: https://ecoevogeno.org/
+Twitter: @ColauttiLab
 
-<!--
-**ColauttiLab/colauttilab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ColauttiLab's github stats](https://github-readme-stats.vercel.app/api?username=colauttilab)
 
-Here are some ideas to get you started:
+Popular repos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![baRcodeR](https://github-readme-stats.vercel.app/api/pin/?username=ropensci&repo=baRcodeR&theme=merko)](https://github.com/ColauttiLab/baRcodeR)
+
+[![SARS-CoV_Phylogenomics](https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=SARS-CoV_Phylogenomics&theme=merko)](https://github.com/ColauttiLab/SARS-CoV_Phylogenomics)
+
+[![DragonPhylogeny](https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=DragonPhylogeny&theme=merko)](https://github.com/ColauttiLab/DragonPhylogeny)
+
+
