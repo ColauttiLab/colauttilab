@@ -15,5 +15,5 @@ Popular repos:
 [![DragonPhylogeny](https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=DragonPhylogeny&theme=dracula)](https://github.com/ColauttiLab/DragonPhylogeny)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ColauttiLab&color=ff69b4&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ColauttiLab&color=ff69b4&style=for-the-badge) profile views since 30 December, 2022
 
