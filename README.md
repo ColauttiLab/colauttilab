@@ -1,6 +1,6 @@
 Website: https://ecoevogeno.org/
+
 Twitter: @ColauttiLab
-![Profile View Counter](https://komarev.com/ghpvc/?username=ColauttiLab&color=ff69b4&style=for-the-badge)
 
 ![ColauttiLab's github stats](https://github-readme-stats.vercel.app/api?username=colauttilab&theme=dracula)
 
@@ -15,4 +15,5 @@ Popular repos:
 [![DragonPhylogeny](https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=DragonPhylogeny&theme=dracula)](https://github.com/ColauttiLab/DragonPhylogeny)
 
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=ColauttiLab&color=ff69b4&style=for-the-badge)
 
