@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ColauttiLab)
 
-![ColauttiLab's github stats](https://github-readme-stats.vercel.app/api?username=colauttilab&theme=dracula)
 
-Popular repos:
+
+**Popular repos**:
 
 [![R Crash Course for Biologists (Book)](https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=RCrashCourse_Book&theme=dracula)](https://github.com/ColauttiLab/RCrashCourse_Book)
 
