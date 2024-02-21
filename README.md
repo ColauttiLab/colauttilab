@@ -1,9 +1,8 @@
 [![EcoEvoGeno](https://img.shields.io/badge/EcoEvoGeno.org-ColauttiLab_Website-orange)](https://EcoEvoGeno.org)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/ColauttiLab)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ColauttiLab)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/ColauttiLab)
 
 
 **Popular repos**:
