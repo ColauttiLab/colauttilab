@@ -7,7 +7,7 @@
 
 **Popular repos**:
 
-[![R Crash Course for Biologists (Book)](https://img.shields.io/github/downloads/colauttilab/RCrashCourse/ColauttiRCrashCourseNov22.pdf))](https://github.com/ColauttiLab/RCrashCourse_Book)
+[![R Crash Course for Biologists (Book)](https://img.shields.io/github/downloads/colauttilab/RCrashCourse)](https://github.com/ColauttiLab/RCrashCourse_Book)
 
 [![baRcodeR](https://github-readme-stats.vercel.app/api/pin/?username=ropensci&repo=baRcodeR&theme=dracula)](https://github.com/ropensci/baRcodeR)
 
