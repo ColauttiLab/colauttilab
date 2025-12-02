@@ -9,7 +9,7 @@
 
 [![R Crash Course for Biologists (Book)](https://img.shields.io/github/repo-size/colauttilab/RCrashCourse)](https://github.com/ColauttiLab/RCrashCourse_Book) R Crash Course for Biologists
 
-[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/baRcodeR)](https://CRAN.R-project.org/package=baRcodeR)](https://github.com/ropensci/baRcodeR) baRcodeR -- an CRAN package for generating unique ID codes with scannable barcodes in R
+[![baRcodeR](https://cranlogs.r-pkg.org/badges/grand-total/baRcodeR)](https://CRAN.R-project.org/package=baRcodeR) baRcodeR -- an CRAN package for generating unique ID codes with scannable barcodes in R
 
 [![SARS-CoV_Phylogenomics](https://img.shields.io/github/repo-size/colauttilab/SARS-CoV_Phylogenomics)](https://github.com/ColauttiLab/SARS-CoV_Phylogenomics) SARS-CoV2 Phylogenomics analysis pipeline
 
