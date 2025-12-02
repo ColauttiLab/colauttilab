@@ -1,13 +1,13 @@
 [![EcoEvoGeno](https://img.shields.io/badge/EcoEvoGeno.org-ColauttiLab_Website-orange)](https://EcoEvoGeno.org)
 
 
-[![LinkedIn][![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ColauttiLab)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ColauttiLab)
 [![Blueusky](https://img.shields.io/badge/bluesky-%231DA1F2.svg?style=social&logo=bluesky)](https://bsky.app/profile/colauttilab.bsky.social)
 
 
 **Popular repos**:
 
-[![R Crash Course for Biologists (Book)]([https://github-readme-stats.vercel.app/api/pin/?username=colauttilab&repo=RCrashCourse_Book&theme=dracula](https://img.shields.io/github/downloads/colauttilab/RCrashCourse/ColauttiRCrashCourseNov22.pdf))](https://github.com/ColauttiLab/RCrashCourse_Book)
+[![R Crash Course for Biologists (Book)](https://img.shields.io/github/downloads/colauttilab/RCrashCourse/ColauttiRCrashCourseNov22.pdf))](https://github.com/ColauttiLab/RCrashCourse_Book)
 
 [![baRcodeR](https://github-readme-stats.vercel.app/api/pin/?username=ropensci&repo=baRcodeR&theme=dracula)](https://github.com/ropensci/baRcodeR)
 
