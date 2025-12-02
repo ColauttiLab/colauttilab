@@ -7,13 +7,13 @@
 
 **Popular repos**:
 
-[![R Crash Course for Biologists (Book)](https://img.shields.io/github/repo-size/colauttilab/RCrashCourse)](https://github.com/ColauttiLab/RCrashCourse_Book) R Crash Course for Biologists
+[![R Crash Course for Biologists (Book)](https://img.shields.io/github/repo-size/colauttilab/RCrashCourse)](https://github.com/ColauttiLab/RCrashCourse_Book) **R Crash Course for Biologists**
 
-[![baRcodeR](https://cranlogs.r-pkg.org/badges/grand-total/baRcodeR)](https://CRAN.R-project.org/package=baRcodeR) baRcodeR -- an CRAN package for generating unique ID codes with scannable barcodes in R
+[![baRcodeR](https://cranlogs.r-pkg.org/badges/grand-total/baRcodeR)](https://CRAN.R-project.org/package=baRcodeR) **baRcodeR** -- a CRAN package for generating unique ID codes with scannable barcodes in R
 
-[![SARS-CoV_Phylogenomics](https://img.shields.io/github/repo-size/colauttilab/SARS-CoV_Phylogenomics)](https://github.com/ColauttiLab/SARS-CoV_Phylogenomics) SARS-CoV2 Phylogenomics analysis pipeline
+[![SARS-CoV_Phylogenomics](https://img.shields.io/github/repo-size/colauttilab/SARS-CoV_Phylogenomics)](https://github.com/ColauttiLab/SARS-CoV_Phylogenomics) **SARS-CoV2** Phylogenomics analysis pipeline
 
-[![DragonPhylogeny](https://img.shields.io/github/repo-size/colauttilab/DragonPhylogeny)](https://github.com/ColauttiLab/DragonPhylogeny) Dragon Phylogeny -- a phylogeny of dragons
+[![DragonPhylogeny](https://img.shields.io/github/repo-size/colauttilab/DragonPhylogeny)](https://github.com/ColauttiLab/DragonPhylogeny) **Dragon Phylogeny** -- a phylogeny of dragons
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ColauttiLab&color=ff69b4&style=for-the-badge) profile views since 30 December, 2022
